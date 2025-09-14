@@ -32,9 +32,10 @@ It demonstrates core microservices and frontend federation patterns such as **AP
 ## 🛠️ Tech Stack
 - **Backend:** Java, Spring Boot, Spring Cloud, Spring Security  
 - **Frontend (MFE):** React, Vite, Module Federation  
-- **Database:** PostgreSQL / MongoDB  
-- **Service Discovery:** Eureka (optional)  
-- **Resilience:** Resilience4j Circuit Breaker  
+- **Database:** Mysql
+- **Service Discovery:** Eureka 
+- **Resilience:** Resilience4j Circuit Breaker
+- **Secret Key Management** Spring Cloud Config
 - **Build Tool:** Maven  
 - **Containerization:** Docker & Kubernetes (optional)  
 
