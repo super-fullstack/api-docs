@@ -18,7 +18,7 @@ It demonstrates core microservices patterns such as **API Gateway, Feign Client,
   - Single entry point for all microservices
   - Centralized CORS and route management
 - **Database**
-  - PostgreSQL or MongoDB (configurable)
+  - Mysql
 - **Security**
   - JWT-based authentication
 
